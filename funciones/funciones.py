@@ -1,7 +1,7 @@
 ##funciones
 ##2tipos de funciones
 ##funciones propias de paython
-print(parametros)##sirve para mostrar mensajes o resultados
+print(parametros) ##sirve para mostrar mensajes o resultados
 int()## esta funcion sirve para convertir string en entero
 input()##esta funcion sirve para pedir datos el usuario
 

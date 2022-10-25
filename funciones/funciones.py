@@ -15,3 +15,4 @@ def suma(a,b):
 
 ##uso de funcion
 print(suma(4,6))
+#def

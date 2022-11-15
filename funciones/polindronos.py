@@ -1,0 +1,1 @@
+# crear una funcion que me diga si una palabra es polindronos
